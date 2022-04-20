@@ -1,3 +1,3 @@
-# hello
-training to learn github
+# hello Mars
+training to learn github/n
 making edits to readme
